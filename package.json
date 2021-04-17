@@ -1,0 +1,36 @@
+{
+    "name": "oauthdone",
+    "version": "0.5.1",
+    "description": "oauth done easy",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {
+        "eslint": "7.24.0",
+        "eslint-config-airbnb-base": "14.2.1",
+        "eslint-plugin-import": "2.22.1"
+    },
+    "scripts": {
+        "eslint": "eslint .",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/melvynkim/oauthdone.git"
+    },
+    "keywords": [
+        "oauth2",
+        "authentication",
+        "bearer",
+        "token"
+    ],
+    "author": {
+        "name": "Melvyn kim"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/melvynkim/oauthdone/issues"
+    },
+    "homepage": "https://github.com/melvynkim/oauthdone",
+    "directories": {},
+    "readme": "ERROR: No README data found!"
+}
